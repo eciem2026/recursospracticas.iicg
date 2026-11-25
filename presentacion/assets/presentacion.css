@@ -305,3 +305,43 @@ body:not(.js) #deck-curriculum .curriculum-controls{margin-top:14px}
   .deck-footer #position{font-size:13px;letter-spacing:.04em;white-space:nowrap}
   .deck-footer .nav-button{gap:7px}
 }
+
+/* Projected text and small labels retain contrast on pale backgrounds. */
+.send-strip .actor,.defense-composition .actor{color:#365f4c}
+.parallel-flow>div:last-child .time-number,.parallel-flow>div:last-child .time-number span{color:#785718}
+.grade-ranges>div:nth-of-type(2) strong{color:#73551b}
+@media screen{
+  .slide .actor{font-size:14px}
+  .slide .source-link,.sequence-control>span,.slide .check-status{font-size:15px}
+}
+@media(prefers-contrast:more){
+  :root{--muted:#354b56;--line:#81958b}
+  .slide .source-link,.slide .small,.slide .footnote,.curriculum-description,.curriculum-caption{color:#354b56}
+  .cover .source-link,.cover .small{color:#e7f2ed}
+  .extra,.quiz,.process-map button,.journey-track button{border-color:#6e887a}
+}
+@media(forced-colors:active){
+  button,a,input,select,summary{forced-color-adjust:auto}
+  .slide.cover{background:Canvas;color:CanvasText}
+  .cover h1,.cover p,.cover-facts dt,.cover-facts dd,.cover .eyebrow{color:CanvasText}
+  .journey-track button[aria-current=step],[data-case][aria-pressed=true],[data-answer][aria-pressed=true]{outline:2px solid Highlight;outline-offset:-3px}
+  .process-map button,.sequence li,.parallel-flow>div,.extra,.quiz{border-color:CanvasText}
+}
+
+@media screen and (max-height:500px){
+  .js .deck-header{flex-wrap:nowrap;gap:12px;min-height:55px;padding:7px 16px}
+  .brand img{width:120px}
+  .brand>span{display:none}
+  .deck-tools{width:auto;margin-left:auto;gap:8px}
+  .deck-tools .route-label{font-size:0;gap:0}
+  .deck-tools .route-label select{font-size:14px;width:170px;max-width:170px}
+  .deck-tools .guide-link,.deck-tools #fullscreen{display:none!important}
+  .js .journey-strip{padding-top:5px;padding-bottom:5px}
+  .journey-track button{min-height:34px;padding-top:5px;padding-bottom:5px}
+  .js .deck-footer{min-height:57px;padding-top:6px;padding-bottom:6px}
+}
+
+@media(forced-colors:active){
+  .brand img{background:#fff;forced-color-adjust:none}
+  #deck-curriculum-highlights rect{fill:transparent;stroke:Highlight;stroke-width:4}
+}
