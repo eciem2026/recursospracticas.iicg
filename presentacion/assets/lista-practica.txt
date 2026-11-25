@@ -9,8 +9,8 @@ PRÁCTICA TRADICIONAL
 [ ] Atender la revisión. Si hay observaciones, corregir en 10 días hábiles. La nueva revisión dispone de 5 días hábiles.
 [ ] Recibir y completar la carta de aceptación con la empresa. Entregarla antes de comenzar y confirmar la autorización y las fechas con Secretaría.
 [ ] Completar 420 horas continuas y efectivas. Mantener bitácora semanal y evidencias de al menos cuatro problemáticas y sus soluciones.
-[ ] Conservar la plantilla de constancia enviada por Secretaría al confirmar el inicio, una vez recibida y verificada la carta de aceptación.
-[ ] Notificar el término y adjuntar la constancia firmada y timbrada por la empresa en máximo 10 días corridos desde el término. El incumplimiento anula la práctica.
+[ ] Notificar el término por correo a Secretaría y solicitar la constancia en máximo 10 días corridos desde la fecha de término.
+[ ] Recibir de Secretaría el formato de constancia, gestionar firma y timbre de la empresa y devolverlo a Secretaría.
 [ ] Entregar el informe en PDF y sus anexos dentro de 30 días corridos desde el término, aunque la evaluación del supervisor esté pendiente.
 [ ] Verificar la recepción de la evaluación aprobatoria del supervisor para la derivación del informe al académico. El académico dispone de un plazo de 15 a 30 días corridos desde la recepción del informe.
 [ ] Si el informe queda pendiente entre 3,0 y 4,9, corregir en 10 días corridos. Segunda revisión: máximo 10 días corridos por el mismo académico. Nota máxima en esa evaluación: 5,0.
@@ -45,3 +45,6 @@ ACUERDOS IICG Y AVISOS
 [ ] Desde el 25 de noviembre de 2026, las nuevas inscripciones utilizan documentación 2026. Descarga las versiones actualizadas desde la biblioteca de descargas del recurso interactivo.
 Las rúbricas de informe 2025 están vigentes. El Comité Curricular trabaja en su actualización, prevista para diciembre 2026 o enero 2027. La carrera comunicará publicación y aplicación. Competencias genéricas mantiene su versión vigente. La posible plataforma institucional puede actualizar pasos administrativos, lo que será informado.
 Guía completa: https://eciem2026.github.io/recursospracticas.iicg/
+
+ENCUESTA DE PERCEPCIÓN DEL ESTUDIANTE
+Desde enero de 2027, Secretaría envía junto con la constancia una encuesta para conocer tu percepción de la experiencia y del proceso de práctica. No tiene calificación y se envía directamente por Secretaría. Debes responderla para formalizar la recepción de tu informe, siempre dentro de los 30 días corridos desde el término.
