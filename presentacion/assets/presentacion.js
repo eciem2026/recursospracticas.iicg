@@ -119,6 +119,8 @@
     const value = Number(params.get('pantalla'));
     index = Number.isFinite(value) && value >= 1 ? Math.floor(value) - 1 : 0;
     render(false);
+    deck.scrollTo({top: 0, behavior: 'instant'});
+    requestAnimationFrame(updateReadingCue);
   }
   previous.addEventListener('click', () => { if (index > 0) go(index - 1); });
   next.addEventListener('click', () => { if (index < currentSlides().length - 1) go(index + 1); });

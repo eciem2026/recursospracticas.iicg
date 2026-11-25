@@ -296,3 +296,12 @@ body:not(.js) #deck-curriculum .curriculum-controls{margin-top:14px}
   .js .deck-header,.js .progress-track,.js .journey-strip,.js #deck,.js .deck-footer{min-width:0}
   .journey-track{min-width:0;max-width:100%}
 }
+
+/* Compact controls retain their full labels on narrow mobile screens. */
+@media screen and (max-width:360px){
+  .deck-tools .route-label{font-size:0;gap:0}
+  .deck-tools .route-label select{width:190px;max-width:190px;font-size:14px}
+  .deck-footer .position{min-width:0;flex-shrink:0}
+  .deck-footer #position{font-size:13px;letter-spacing:.04em;white-space:nowrap}
+  .deck-footer .nav-button{gap:7px}
+}

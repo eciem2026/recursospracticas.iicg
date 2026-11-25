@@ -12,7 +12,7 @@ PRÁCTICA TRADICIONAL
 [ ] Notificar el término por correo a Secretaría y solicitar la constancia en máximo 10 días corridos desde la fecha de término.
 [ ] Recibir de Secretaría el formato de constancia, gestionar firma y timbre de la empresa y devolverlo a Secretaría.
 [ ] Entregar el informe en PDF y sus anexos dentro de 30 días corridos desde el término, aunque la evaluación del supervisor esté pendiente.
-[ ] Verificar la recepción de la evaluación aprobatoria del supervisor para la derivación del informe al académico. El académico dispone de un plazo de 15 a 30 días corridos desde la recepción del informe.
+[ ] Verificar la recepción formal del informe y la evaluación aprobatoria del supervisor para su derivación al académico. Desde enero de 2027, responder la encuesta de percepción es requisito para formalizar la recepción. El académico dispone de un plazo de 15 a 30 días corridos desde la recepción del informe.
 [ ] Si el informe queda pendiente entre 3,0 y 4,9, corregir en 10 días corridos. Segunda revisión: máximo 10 días corridos por el mismo académico. Nota máxima en esa evaluación: 5,0.
 [ ] Confirmar con Secretaría el período de registro académico y el resultado de las evaluaciones.
 
@@ -46,5 +46,5 @@ ACUERDOS IICG Y AVISOS
 Las rúbricas de informe 2025 están vigentes. El Comité Curricular trabaja en su actualización, prevista para diciembre 2026 o enero 2027. La carrera comunicará publicación y aplicación. Competencias genéricas mantiene su versión vigente. La posible plataforma institucional puede actualizar pasos administrativos, lo que será informado.
 Guía completa: https://eciem2026.github.io/recursospracticas.iicg/
 
-ENCUESTA DE PERCEPCIÓN DEL ESTUDIANTE
-Desde enero de 2027, Secretaría envía junto con la constancia una encuesta para conocer tu percepción de la experiencia y del proceso de práctica. No tiene calificación y se envía directamente por Secretaría. Debes responderla para formalizar la recepción de tu informe, siempre dentro de los 30 días corridos desde el término.
+ENCUESTA DE PERCEPCIÓN DEL ESTUDIANTE · SOLO PRÁCTICA TRADICIONAL
+Esta encuesta se aplica exclusivamente a la práctica tradicional. Desde enero de 2027, Secretaría envía junto con la constancia una encuesta para conocer tu percepción de la experiencia y del proceso de práctica. No tiene calificación y se envía directamente por Secretaría. Debes responderla para formalizar la recepción de tu informe, siempre dentro de los 30 días corridos desde el término.
